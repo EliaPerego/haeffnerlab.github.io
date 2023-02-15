@@ -68,7 +68,7 @@ title: Group Members
           email_name="e.perego"
           email_domain="berkeley"
           email_suffix="edu"
-          bio=""
+          bio="hhh"
       %}
     </tr>
     <tr>
